@@ -1,4 +1,6 @@
-### Hi there 👋 Just publishing some code here from time to time. Visit my LinkedIn and Twitter for more updates!
+### Hi there 👋
+
+Just publishing some code here from time to time. Visit my LinkedIn and Twitter for more updates!
 
 <!--
 **sergeylitvinenko1/sergeylitvinenko1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
